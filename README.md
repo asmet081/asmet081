@@ -10,7 +10,6 @@ Resume:[Resume.docx](https://github.com/asmet081/asmet081/files/7227516/Resume.d
 
 CMNT110 [CMNT110.zip](https://github.com/asmet081/asmet081/files/7237542/CMNT110.zip)
 CIS 120 [CIS120.zip](https://github.com/asmet081/asmet081/files/7237530/CIS120.zip)
-\
 
 
 
@@ -56,3 +55,44 @@ CIS 120 [CIS120.zip](https://github.com/asmet081/asmet081/files/7237530/CIS120.z
         />
     </div>
 </div>
+
+
+<img
+    src="./images/name-of-your-image.png"
+    class="work__image"
+    alt="Project 1"
+/>
+
+<img
+    src="./images/your-logo.png"
+    class="client__logo"
+    alt="Your Logo"
+/>
+
+<section class="about" id="about">
+    <div class="row">
+        <h2>About Me</h2>
+        <div class="about__content">
+            <div class="about__text">
+                <!-- Replace the below paragraph with info about yourself -->
+                <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
+                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
+                in vel, ex quam quidem quos mollitia labore aut sunt eius
+                ratione molestiae fuga veniam facere similique voluptate.
+                </p>
+                <!-- Provide a link to your resume -->
+                <a href="#" class="btn">My Resume</a>
+            </div>
+
+            <div class="about__photo-container">
+                <!-- Add a nice photo of yourself -->
+                <img
+                class="about__photo"
+                src="./images/syed-ali-hussnain.jpg"
+                alt=""
+                />
+            </div>
+        </div>
+    </div>
+</section>

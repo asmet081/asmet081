@@ -12,9 +12,7 @@ CMNT110 [CMNT110.zip](https://github.com/asmet081/asmet081/files/7237542/CMNT110
 CIS 120 [CIS120.zip](https://github.com/asmet081/asmet081/files/7237530/CIS120.zip)
 
 
-![218276147_520152702563236_5406623302328840011_n](https://user-images.githubusercontent.com/91230744/135181177-9bc10869-66c8-4d5c-aa86-3c4c5e03539f.jpg)
-
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://github.com/asmet081)
+![218276147_520152702563236_5406623302328840011_n](https://user-images.githubusercontent.com/91230744/135181177-9bc10869-66c8-4d5c-aa86-3c4c5e03539f.jpg (https://github.com/asmet081)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>

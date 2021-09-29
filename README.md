@@ -21,11 +21,13 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
  
 ### Qualifications
 
+Technical Skills
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* Java
+* HTML 5
+* Cyber Security Skills
+* Python
+* Wireshark
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 

@@ -11,9 +11,6 @@ Resume:[Resume.docx](https://github.com/asmet081/asmet081/files/7227516/Resume.d
 CMNT110 [CMNT110.zip](https://github.com/asmet081/asmet081/files/7237542/CMNT110.zip)
 CIS 120 [CIS120.zip](https://github.com/asmet081/asmet081/files/7237530/CIS120.zip)
 
-![218276147_520152702563236_5406623302328840011_n](https://user-images.githubusercontent.com/91230744/135181339-68c4af98-7387-48dd-b0a5-9de9fb6a916c.jpg)<img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
-
-
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>

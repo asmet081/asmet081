@@ -4,7 +4,7 @@
 
 <br />
 
-My name is Alex Smetana! I am currently a Junior attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. Currently my GPA is sitting at a 3.37.
+My name is Alex Smetana! I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. Currently, my GPA is sitting at a 3.37.
 
 <br />
 

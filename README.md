@@ -23,7 +23,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
   <img width="375" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
 </p>
  
-| Technical Skills       | Non Technical Skills    |  
+| Technical Skills       | Non Technical Skills    |          * Learned the basics of object-oriented programming using Java, while learning basic data structures andalgorithms.
 | -----------            | -----------             |  
 | Java                   | Problem Solving         |
 | HTML 5                 | Customer Service        |

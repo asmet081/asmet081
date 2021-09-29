@@ -23,7 +23,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
   <img width="375" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
 </p>
  
-<align='right'> 
+<div style="text-align: right"> 
 | Technical Skills       | Non Technical Skills    |      
 | -----------            | -----------             |  
 | Java                   | Problem Solving         |
@@ -31,7 +31,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 | Cyber Security Skills  | Communication           |
 | Python                 | Critical Thinking       |
 | Wireshark              | Leadership              |
-
+your-text-here </div>
 <br>
 
 * Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.

@@ -5,6 +5,8 @@
 
 My name is Alex Smetana! I am currently a Junior attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. Currently my GPA is sitting at a 3.37.
 
+<br />
+
 Currently my biggest goal is to gain an internship. My goal is to obtain an internship as either a software engineer or an internship for a cyber security position.
 
 I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 

@@ -3,7 +3,11 @@
 Hey there 👋,
 
 My name is Alex Smetana! I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
-![218276147_520152702563236_5406623302328840011_n](https://user-images.githubusercontent.com/91230744/135182054-b21d18f2-fec3-448e-80b9-01ab2236fa83.jpg)
+![218276147_520152702563236_5406623302328840011_n]
+
+
+
+(https://user-images.githubusercontent.com/91230744/135182054-b21d18f2-fec3-448e-80b9-01ab2236fa83.jpg)
 
   ---
  

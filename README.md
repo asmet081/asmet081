@@ -19,7 +19,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 
 ### Qualifications
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='right' src="https://user-images.githubusercontent.com/91230744/135184130-e8c9f298-bece-4823-a4a7-51597535385b.jpg">
 </p>
  
 | Technical Skills       | Non Technical Skills |

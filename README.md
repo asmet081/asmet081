@@ -20,7 +20,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 
 ### Qualifications
  <p>
-  <img width="250" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
+  <img width="400" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
 </p>
  
 | Technical Skills       | Non Technical Skills |

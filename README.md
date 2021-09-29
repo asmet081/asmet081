@@ -1,7 +1,6 @@
 Hey there 👋,
 
-I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security.  You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
-
+I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security.  You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
   ---
  
  <p>

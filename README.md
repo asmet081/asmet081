@@ -6,7 +6,7 @@ My name is Alex Smetana! I am currently a student attending the UWSP double majo
 
 
 
-![218276147_520152702563236_5406623302328840011_n](https://user-images.githubusercontent.com/91230744/135182054-b21d18f2-fec3-448e-80b9-01ab2236fa83.jpg)
+ <img width="250" align='left' src= "https://user-images.githubusercontent.com/91230744/135182054-b21d18f2-fec3-448e-80b9-01ab2236fa83.jpg">
 
   ---
  

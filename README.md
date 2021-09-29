@@ -22,13 +22,13 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-| Technical Skills     | Non Technical Skills |
-| -----------            | ----------- |
-| Java                   | Title       |
-| HTML 5                 | Text        |
-| Cyber Security Skills  | Title       |
-| Python                 | Text        |
-| Wireshark              | Title       |
+| Technical Skills       | Non Technical Skills |
+| -----------            | -----------             |
+| Java                   | Problem Solving         |
+| HTML 5                 | Customer Service        |
+| Cyber Security Skills  | Communication           |
+| Python                 | Critical Thinking       |
+| Wireshark              | Leadership              |
 
 
 Technical Skills

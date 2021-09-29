@@ -9,10 +9,6 @@ Currently my biggest goal is to gain an internship. My goal is to obtain an inte
 
 I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
 
-
-
-
-
   ---
  
  <p>
@@ -23,7 +19,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 
 Technical Skills
 
-* Java                   * Problem Solving
+* Java
 * HTML 5
 * Cyber Security Skills
 * Python
@@ -31,7 +27,7 @@ Technical Skills
 
 Non Technical Skills
 
-
+* Problem Solving
 * Customer Service
 * Communication
 * Critical Thinking

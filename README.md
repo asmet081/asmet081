@@ -1,21 +1,6 @@
-- 👋 Hi, I’m Alex Smetana!
-- 👀 I’m currently a UWSP Student. CIS - App Development and Cybersecurity
-- 🌱 I’m currently seeking an internship
-- 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/alex-smetana-03052121a/
-- 📫 asmetana88@gmail.com (715) 340-7293
-
-Resume:[Resume.docx](https://github.com/asmet081/asmet081/files/7227516/Resume.docx)
-
--Past Labs:
-
-CMNT110 [CMNT110.zip](https://github.com/asmet081/asmet081/files/7237542/CMNT110.zip)
-CIS 120 [CIS120.zip](https://github.com/asmet081/asmet081/files/7237530/CIS120.zip)
-
-
-
 Hey there 👋,
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
 
   ---
  

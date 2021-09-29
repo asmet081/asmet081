@@ -23,7 +23,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 
 Technical Skills
 
-* Java
+* Java                   * Problem Solving
 * HTML 5
 * Cyber Security Skills
 * Python
@@ -31,7 +31,7 @@ Technical Skills
 
 Non Technical Skills
 
-* Problem Solving
+
 * Customer Service
 * Communication
 * Critical Thinking

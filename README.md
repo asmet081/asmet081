@@ -30,10 +30,13 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 | Cyber Security Skills  | Communication           |
 | Python                 | Critical Thinking       |
 | Wireshark              | Leadership              |
-•	Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.
-•	Very brief understanding of coding fundamentals in both Python and HTML.
-•	Studied data analysis using R code.
-•	Understand the fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major.
+
+<br>
+
+* Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.
+* Very brief understanding of coding fundamentals in both Python and HTML.
+* Studied data analysis using R code.
+* Understand the fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major.
 
  ---
 

@@ -20,7 +20,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 
 ### Qualifications
  <p>
-  <img width="400" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
+  <img width="375" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
 </p>
  
 | Technical Skills       | Non Technical Skills |
@@ -30,23 +30,6 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 | Cyber Security Skills  | Communication           |
 | Python                 | Critical Thinking       |
 | Wireshark              | Leadership              |
-
-
-Technical Skills
-
-* Java
-* HTML 5
-* Cyber Security Skills
-* Python
-* Wireshark
-
-Non Technical Skills
-
-* Problem Solving
-* Customer Service
-* Communication
-* Critical Thinking
-* Leadership
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 

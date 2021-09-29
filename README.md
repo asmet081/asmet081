@@ -30,8 +30,10 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 | Cyber Security Skills  | Communication           |
 | Python                 | Critical Thinking       |
 | Wireshark              | Leadership              |
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+•	Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.
+•	Very brief understanding of coding fundamentals in both Python and HTML.
+•	Studied data analysis using R code.
+•	Understand the fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major.
 
  ---
 

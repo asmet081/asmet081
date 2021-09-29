@@ -22,8 +22,11 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
  <p>
   <img width="375" align='right' src="https://user-images.githubusercontent.com/91230744/135184275-da58e4dc-7c15-4af8-ace0-b98cec6a2e8e.png">
 </p>
- 
-<div style="text-align: right">
+
+* Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.
+* Very brief understanding of coding fundamentals in both Python and HTML.
+* Studied data analysis using R code.
+* Understand the fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major.
 	
 | Technical Skills       | Non Technical Skills    |      
 | -----------            | -----------             |  
@@ -35,10 +38,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 </div>
 <br>
 
-* Learned the basics of object-oriented programming using Java, while learning basic data structures and algorithms.
-* Very brief understanding of coding fundamentals in both Python and HTML.
-* Studied data analysis using R code.
-* Understand the fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major.
+
 
  ---
 

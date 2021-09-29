@@ -1,6 +1,11 @@
 Hey there 👋,
 
-I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security.  You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
+I am currently a student attending the UWSP double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
   ---
  
@@ -8,7 +13,7 @@ I am currently a student attending the UWSP double majoring in both Computer Inf
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### Qualifications
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 

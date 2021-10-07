@@ -51,7 +51,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 </p>
 
 ### Contact Me
-
+The best place to reach me is through my email.
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;

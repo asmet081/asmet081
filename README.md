@@ -35,7 +35,9 @@ My goal is to obtain an internship as either a software engineer or an internshi
 </div>
 <br>
 
-I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
+
+### Contact Me
+You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
 
 
 <p align='center'>
@@ -43,5 +45,5 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://www.linkedin.com/in/alex-smetana-03052121a/"></a>
 </p>

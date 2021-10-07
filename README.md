@@ -1,12 +1,11 @@
  ### Welcome!
 <img width="250" align='left' src= "https://user-images.githubusercontent.com/91230744/135182054-b21d18f2-fec3-448e-80b9-01ab2236fa83.jpg">
 
- 
  Hey there 👋,
 
 <br />
 
-My name is Alex Smetana! I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) double majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. Currently, my GPA is sitting at a 3.37.
+My name is Alex Smetana! I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. 
 
 <br />
 
@@ -14,7 +13,7 @@ Currently my biggest goal is to gain an internship. My goal is to obtain an inte
 
 <br />
 
-I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
+
 
   ---
  
@@ -41,6 +40,7 @@ I am an a You can see a full list of what I am up to on [LinkedIn](https://www.l
 </div>
 <br>
 
+I am an a You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
 
 
  ---

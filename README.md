@@ -5,11 +5,11 @@
 
 <br />
 
-My name is Alex Smetana! I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. 
+My name is Alex Smetana. I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. 
 
 <br />
 
-My goal is to obtain an internship as either a software engineer or an internship for a cyber security position. I have a passion for coding and would love to get some expierence in the real world! I have expierence in Java, HTML 5, Python, CSS, and R Code.
+My goal is to obtain an internship as either a software engineer or an internship for a cyber security position. I have a passion for coding and would love to get some experience in the real world! I have expierence in Java, HTML 5, Python, CSS, and R Code.
 
 <br /> 
 

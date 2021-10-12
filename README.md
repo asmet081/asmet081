@@ -37,5 +37,8 @@ My goal is to obtain an internship as either a software engineer or an internshi
 
 
 ### Contact Me
-You can see a full list of what I am up to on [LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
+Alex Smetana
+asmetana88@gmail.com
+(715) 340-7293
+[LinkedIn](https://www.linkedin.com/in/alex-smetana-03052121a/). 
 

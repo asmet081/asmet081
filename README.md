@@ -15,7 +15,7 @@ My goal is to obtain an internship as either a software engineer or an internshi
 
 ### Qualifications
 
-* Basics of object-oriented programming using Java, while learning basic data structures and algorithms
+* Basics of object-oriented programming using using data structures and algorithms (Java)
 * Brief understanding of coding fundamentals in both Python and HTML
 * Studied data analysis using R code
 * Fundamentals of Cyber Security

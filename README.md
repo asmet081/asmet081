@@ -18,7 +18,7 @@ My goal is to obtain an internship as either a software engineer or an internshi
 * Basics of object-oriented programming using Java, while learning basic data structures and algorithms
 * Brief understanding of coding fundamentals in both Python and HTML
 * Studied data analysis using R code
-* Fundamentals of Cyber Security. Currently in the process of taking classes to supplement my major
+* Fundamentals of Cyber Security
 * Soft skills such as problem solving, critical thinking, and the ability to work under pressure
 
  <p>

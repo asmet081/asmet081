@@ -33,6 +33,8 @@ My goal is to obtain an internship as either a software engineer or an internshi
 |                        | Leadership              |
 
 <br>
+<br>
+
 **NOTE - I have dabbled in PHP, R Code, Typescript (Angular Framework), and Python in school however don't feel super comfortable with it.**
 </div>
 <br>

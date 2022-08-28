@@ -29,8 +29,11 @@ My goal is to obtain an internship as either a software engineer or an internshi
 | Java                   | Problem Solving         |
 | HTML 5 / CSS           | Customer Service        |
 | Cyber Security Skills  | Communication           |
-|                        | Critical Thinking       |
+| SQL                    | Critical Thinking       |
 |                        | Leadership              |
+
+<br>
+**NOTE - I have dabbled in PHP, R Code, Typescript (Angular Framework), and Python in school however don't feel super comfortable with it.**
 </div>
 <br>
 

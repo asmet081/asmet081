@@ -1,0 +1,13 @@
+form-inline {
+    color: white;
+}
+
+
+.circle { 
+    width: 20px;
+    height: 20px;
+    background: red; 
+    -moz-border-radius: 70px; 
+    -webkit-border-radius: 70px; 
+    border-radius: 70px;
+ }

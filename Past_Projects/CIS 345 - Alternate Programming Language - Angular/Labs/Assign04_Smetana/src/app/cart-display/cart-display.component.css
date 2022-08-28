@@ -1,0 +1,38 @@
+body{
+    width:40%;
+    padding-left:5%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-spacing: 0 50px;
+}
+
+td,
+th {
+
+    text-align: left;
+    padding: 8px;
+}
+
+  body {
+    margin: 10px;
+  }
+
+
+  p.a {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+
+
+
+
+
+
+
+
+
+  

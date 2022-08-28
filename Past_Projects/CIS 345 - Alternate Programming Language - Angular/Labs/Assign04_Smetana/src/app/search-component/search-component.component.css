@@ -1,0 +1,90 @@
+body{
+  padding-left:3%;
+  padding-right:3%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(174, 171, 171);
+}
+
+
+th {
+    background-color:black;
+    color: white;
+}
+
+input[type=text], select {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align:left;
+  }
+  
+
+  #searchTable {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+  }
+  
+  #searchTable td, #searchTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #searchTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  body {
+    margin: 10px;
+  }
+
+  .divScroll {
+    overflow:scroll;
+    height:500px;
+    width:auto;
+    border-style: solid;
+    border-width: 1px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

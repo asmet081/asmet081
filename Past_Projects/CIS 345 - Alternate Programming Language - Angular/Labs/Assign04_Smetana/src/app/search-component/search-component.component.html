@@ -1,0 +1,72 @@
+<!-- Table. Shows the products in the Product Repository. Allows for a delete functionality.-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+    <br>
+    <br>
+
+    <table id="searchTable">
+        <tr>
+            <th>Search For A Flight:</th>
+        </tr>
+        <tr>
+            <td>
+                <br>
+                <div class="form-group">
+                    Search Flight
+                    <input type="text" class="form-control search-field" placeholder="Search Here"
+                        [(ngModel)]="searchText">
+                </div>
+            </td>
+
+
+        </tr>
+    </table>
+
+    <br><br>
+
+    <h2>FlightTable </h2>
+    <div class="divScroll">
+        <table>
+            <tr>
+                <th>Flight Code </th>
+                <th>Flight Name</th>
+                <th>Day</th>
+                <th>Departure Time</th>
+                <th>Departure City</th>
+                <th>Arrival Time </th>
+                <th>Arrival City </th>
+                <th>Price</th>
+                <th>Seats Available</th>
+                <th> </th>
+            </tr>
+
+            <!-- NgFor To Display Individual Flights Info-->
+            <tr *ngFor="let flight of flightRepository.getFlight() | searchFilter: searchText">
+                <td>{{flight.code}} </td>
+                <td>{{flight.name}} </td>
+                <td>{{flight.day}} </td>
+                <td>{{flight.timeLeave}} PM</td>
+                <td>{{flight.cityLeave}} </td>
+                <td>{{flight.timeArrive}} PM</td>
+                <td>{{flight.cityArrive}}</td>
+                <td>${{flight.Price}}</td>
+                <td>{{flight.seats}}</td>
+                <td><button type="button" (click)="addToCart(flight)">Buy</button></td>
+            </tr>
+        </table>
+    </div>
+
+    <br><br><Br>
+
+</body>
+
+
+</html>

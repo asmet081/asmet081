@@ -1,0 +1,141 @@
+<!--
+    Alex Smetana
+    05/12/2022
+    CIS 345
+-->
+
+<body>
+    <br><br>
+
+    <h1>Flights of Wisconsin</h1>
+
+    <!--
+        Address
+    -->
+    <p>12345 Main Street, Milwaukee Wisconsin, 12345
+        <br>
+
+        <!--
+            Website (static)
+        -->
+        www.flightsOfWisoconsin.gov
+
+        <br>
+
+        <!--
+            Phone number (static)
+        -->
+        (123) 456-7890
+    </p>
+
+    <br>
+    <br>
+
+    <!--
+        Header
+    -->
+    <h5>Invoice Details</h5>
+
+    <hr>
+
+    <!-- 
+        Name of the User (Static). Will change in the future.
+        Ideally change to what the user enters as a username.
+    -->
+    Name: John Smith
+
+    <br>
+
+    <!--
+        Todays Date.
+        Takes the current date
+    -->
+    Date: {{today | date:'fullDate'}}
+
+    <br>
+
+    <!--
+        Customer Number
+        Generates a random number. Will change it to have a unique number in the future.[ngClass]
+        Currently a placholder
+    -->
+    Customer No: #{{FgetRandomInt(1,1000000)}}
+    <br>
+    <br>
+
+    <!--
+        Table to view the items in the cart
+    -->
+    <table>
+
+        <!--
+            Allows for a user to view the code, name, and price 
+            Button Appears in list
+        -->
+        <th>Code</th>
+        <th>Description</th>
+        <th>Price</th>
+        <tr *ngFor="let item of items">
+            <td>{{item.code}} </td>
+            <td>{{item.name}}
+                <br>
+                <br>
+                <p style="color:#696969">
+                    Arrival: {{item.cityLeave}} Airport at {{item.timeLeave}} pm.
+                    <br>
+                    Destination: {{item.cityArrive}} Airport at {{item.timeArrive}} pm.
+                    <br>
+                    Be sure to arrive 2 hours early for check in.
+                </p>
+            </td>
+            <td>${{item.Price}}</td>
+
+        </tr>
+
+    </table>
+    <br>
+
+    <!--
+        Calculates the subtotal, discount and tax.
+        Green and bold for the text. Goal is to be visually apealing and functional.
+    -->
+    <div class="myDiv">
+        <div class="myDiv1">
+            <p><b>Subtotal:</b> ${{addTotal()}} </p>
+            <p><b>Discount:</b> $0.00 </p>
+            <p><b>Tax:</b> ${{taxTotal()}} </p>
+            <p style="color:#04AA6D; font-weight: bold;"> Grand Total: $ {{grandTotal()}} </p>
+            
+            <br>
+
+            <!--
+                Button to print the invoice
+            -->
+            <div class="center">
+                <button type="button" class="btn btn-success" (click)="printThisPage()"> Print Invoice</button>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <br>
+
+    <!--
+        Terms and instructions. 
+        Just put in to look visually appealing. 
+    -->
+    <br>
+    <p>Terms and Instructions.</p>
+    <hr>
+    <p>Please pay within 30 days of the transaction.</p>
+    <p>Please make checks payable to flightsOfWisconsin.gov</p>
+</body>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

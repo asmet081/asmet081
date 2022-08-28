@@ -5,20 +5,19 @@
 
 <br />
 
-My name is Alex Smetana. I am currently a Junior attending the University of Wisconsin Stevens Point (UWSP) majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. 
+My name is Alex Smetana. I am currently a Senior attending the University of Wisconsin Stevens Point (UWSP) majoring in both Computer Information Science(CIS) - App Development and Cyber Security. My expected graduation is May of 2024. 
 
 <br />
 
-My goal is to obtain an internship as either a software engineer or an internship for a cyber security position. I have a passion for coding and would love to get some experience in the real world! I have expierence in Java, HTML 5, Python, CSS, and R Code.
+My goal is to obtain an internship as either a software engineer or an internship for a cyber security position. I have a passion for coding and would love to get some experience in the real world! I have expierence in Java, HTML 5, CSS, and more.
 
 <br /> 
 
 ### Qualifications
 
 * Basics of object-oriented programming using using data structures and algorithms (Java)
-* Brief understanding of coding fundamentals in both Python and HTML
-* Studied data analysis using R code
-* Fundamentals of Cyber Security
+* Brief understanding of coding fundamentals in both CSS and HTML
+* Fundamentals of Cyber Security / Networking skills
 * Soft skills such as problem solving, critical thinking, and the ability to work under pressure
 
  <p>
@@ -28,10 +27,10 @@ My goal is to obtain an internship as either a software engineer or an internshi
 | Technical Skills       | Non Technical Skills    |      
 | -----------            | -----------             |  
 | Java                   | Problem Solving         |
-| HTML 5                 | Customer Service        |
+| HTML 5 / CSS           | Customer Service        |
 | Cyber Security Skills  | Communication           |
-| Python                 | Critical Thinking       |
-| Wireshark              | Leadership              |
+|                        | Critical Thinking       |
+|                        | Leadership              |
 </div>
 <br>
 

@@ -30,7 +30,7 @@ My goal is to obtain an internship as either a software engineer or an internshi
 | HTML 5 / CSS           | Customer Service        |
 | Cyber Security Skills  | Communication           |
 | SQL                    | Critical Thinking       |
-|                        | Leadership              |
+| Kali Linux VM          | Leadership              |
 
 <br>
 <br>
